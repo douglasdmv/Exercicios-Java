@@ -24,8 +24,6 @@ public class alg48 {
         System.out.println("Valor a ser pago (R$): " + valorpago);
         System.out.println("Valor a ser pago com desconto (R$): " + valordesc);
 
-        System.out.println("Teste");
-
     }
 
 }
